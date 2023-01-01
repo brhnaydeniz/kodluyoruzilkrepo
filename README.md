@@ -6,7 +6,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
-`git clone https://github.com/brhnaydeniz/kodluyoruzilkrepo`
+` git clone https://github.com/brhnaydeniz/kodluyoruzilkrepo `
 
 ## Usage 
 
@@ -16,7 +16,7 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux İçin: 
 
-```cd kodluyoruzilkrepo
+``` cd kodluyoruzilkrepo
     cd . 
 ``` 
 
