@@ -3,14 +3,14 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 ## İnstallation
 
------------------------------------------------------------------------------
+
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
-' https://github.com/brhnaydeniz/kodluyoruzilkrepo '
+`https://github.com/brhnaydeniz/kodluyoruzilkrepo`
 
 ## Usage 
 
-----------------------------------------------------------------------------
+
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
